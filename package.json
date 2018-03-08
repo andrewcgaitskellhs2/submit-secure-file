@@ -1,6 +1,9 @@
 {
   "name": "submit-secure-file",
   "version": "1.0.0",
+  "dependencies": {
+    "my_dep": "^1.0.0"
+  },
   "description": "Submit File to Node Red API",
   "main": "app.js",
   "scripts": {
