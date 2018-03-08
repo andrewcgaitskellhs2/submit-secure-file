@@ -15,6 +15,9 @@
     "url": "git+https://github.com/andrewcgaitskellhs2/submit-secure-file.git"
   },
   "author": "AndrewCGaitskellHS2",
+  "engines": {
+    "node": "6.12.x"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/andrewcgaitskellhs2/submit-secure-file/issues"
