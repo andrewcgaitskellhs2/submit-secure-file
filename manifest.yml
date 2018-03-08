@@ -1,0 +1,6 @@
+---
+applications:
+- name: submit-secure-file
+  command: node app.js
+  memory: 256M
+  buildpack: nodejs_buildpack
