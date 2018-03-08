@@ -1,0 +1,19 @@
+{
+  "name": "submit-secure-file",
+  "version": "1.0.0",
+  "description": "Submit File to Node Red API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewcgaitskellhs2/submit-secure-file.git"
+  },
+  "author": "AndrewCGaitskellHS2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewcgaitskellhs2/submit-secure-file/issues"
+  },
+  "homepage": "https://github.com/andrewcgaitskellhs2/submit-secure-file#readme"
+}
